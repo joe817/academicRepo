@@ -1,3 +1,3 @@
 # academicRepo
 
-#My academic publications
+My academic publications
